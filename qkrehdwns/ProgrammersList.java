@@ -3,6 +3,7 @@ package assignment.qkrehdwns;
 import java.util.ArrayList;
 
 class Solution {
+    //123
     public int[] solution(int n, int[] slicer, int[] num_list) {
         ArrayList<Integer> result = new ArrayList<>();
         int a = slicer[0];
